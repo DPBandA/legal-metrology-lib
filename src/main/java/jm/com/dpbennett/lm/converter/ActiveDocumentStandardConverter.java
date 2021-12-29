@@ -18,7 +18,7 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 Email: info@dpbennett.com.jm
  */
 
-package jm.com.dpbennett.sc.converter;
+package jm.com.dpbennett.lm.converter;
 
 import javax.faces.component.UIComponent;
 import javax.faces.context.FacesContext;

@@ -2,7 +2,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package jm.com.dpbennett.sc.manager;
+package jm.com.dpbennett.lm.manager;
 
 import java.io.ByteArrayInputStream;
 import java.io.FileInputStream;

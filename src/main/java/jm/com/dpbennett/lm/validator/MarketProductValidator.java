@@ -17,7 +17,7 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 Email: info@dpbennett.com.jm
  */
-package jm.com.dpbennett.sc.validator;
+package jm.com.dpbennett.lm.validator;
 
 import javax.faces.application.FacesMessage;
 import javax.faces.component.UIComponent;

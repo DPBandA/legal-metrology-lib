@@ -2,7 +2,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>jm.com.dpbennett</groupId>
-    <artifactId>standards-compliance-lib</artifactId>
+    <artifactId>legal-metrology-lib</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
     <properties>
@@ -11,8 +11,8 @@
         <maven.compiler.target>1.8</maven.compiler.target>
         <skipTests>true</skipTests>
     </properties>
-    <description>The library for the Standards Compliance web application.</description>
-    <name>Standards Compliance Library</name>
+    <description>The library for the Legal Metrology web application.</description>
+    <name>Legal Metrology Library</name>
     
     <build>
         <plugins>
